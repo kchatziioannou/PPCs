@@ -1,1 +1,1 @@
-An example of using a posterior predictive check to assess a toy gaussian population model.
+An example of using a posterior predictive checks to assess a toy gaussian population model.
